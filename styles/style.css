@@ -78,13 +78,14 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    z-index: 1;
 }
 
 .overlay {
     position: absolute;
     inset: 0;
     background-color: rgba(0, 0, 0, 0.6);
-    z-index: 0;
+    z-index: -1;
 }
 
 .cover__title {
