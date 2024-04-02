@@ -1,1 +1,1 @@
-https://github.com/Maxim-Lantsov/ono-tebe-nado-1
+https://github.com/Maxim-Lantsov/ono-tebe-nado
